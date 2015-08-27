@@ -22,8 +22,8 @@
   "homepage": "https://github.com/stanislaw-glogowski/node-ip2loc",
   "main": "index.js",
   "dependencies": {
-    "bignum": "~0.6",
-    "lodash": "^2.4.1"
+    "bignum": "~0.11.0",
+    "lodash": "^3.10.1"
   },
   "engines": {
     "node": ">=0.10.0"
