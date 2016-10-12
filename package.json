@@ -7,23 +7,23 @@
     "ip2location"
   ],
   "author": {
-    "name": "Stanislaw Glogowski",
-    "email": "stanislaw.glogowski@newobject.pl"
+    "name": "Piotr Jarząbek",
+    "email": "piojarz@gmail.com"
   },
   "version": "1.0.2",
   "repository": {
     "type": "git",
-    "url": "https://github.com/stanislaw-glogowski/node-ip2loc.git"
+    "url": "https://github.com/piojarz/node-ip2loc.git"
   },
   "bugs": {
-    "url": "https://github.com/stanislaw-glogowski/node-ip2loc/issues"
+    "url": "https://github.com/piojarz/node-ip2loc/issues"
   },
   "licenses": "MIT",
-  "homepage": "https://github.com/stanislaw-glogowski/node-ip2loc",
+  "homepage": "https://github.com/piojarz/node-ip2loc",
   "main": "index.js",
   "dependencies": {
-    "bignum": "~0.11.0",
-    "lodash": "^3.10.1"
+    "bignum": "~0.12.5",
+    "lodash": "^4.16.4"
   },
   "engines": {
     "node": ">=0.10.0"
