@@ -22,7 +22,7 @@
   "homepage": "https://github.com/piojarz/node-ip2loc",
   "main": "index.js",
   "dependencies": {
-    "bignum": "~0.12.5",
+    "bignum": "~0.13.0",
     "lodash": "^4.16.4"
   },
   "engines": {
